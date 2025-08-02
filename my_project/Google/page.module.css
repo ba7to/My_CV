@@ -1,0 +1,16 @@
+.container_box1{
+     background-image: url('./—Pngtree—mountain\ sunset\ minimalist\ landscape\ scenery_1604211.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+    border-color:blueviolet;
+    border-radius: 30px;
+    border-style: ridge;
+    width: 800px;
+    margin: 90px;
+    justify-items:left;
+    padding: 30px;
+    display: inline-block;
+    margin-right: 10px;
+}

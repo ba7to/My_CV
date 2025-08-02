@@ -1,0 +1,58 @@
+.container{
+     background-image: url('./img/—Pngtree—mountain\ sunset\ minimalist\ landscape\ scenery_1604211.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+    border-color:blueviolet;
+    border-radius: 30px;
+    border-style: ridge;
+    width: 800px;
+    margin: 90px;
+    justify-items:left;
+    padding: 30px;
+    display: inline-block;
+    margin-right: 10px;
+}
+.container_a{
+     color: rgb(255, 255, 255);
+    border-radius: 3px;
+    background-color:rgb(0, 0, 0);
+}
+.container_sign{
+     background-color:white;
+    border-color: rgb(0, 0, 0);
+    border-radius: 3px;
+}
+.container_hello{
+    color: white;
+}
+.container_register{
+    color: white;
+}
+.container_b1{
+     height: 25px;
+    width: 35px;
+    border-color: black;
+    border-radius: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+.container_b2{
+     height: 25px;
+    width: 35px;
+    border-color: black;
+    border-radius: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+.container_f1{
+     background-color: black;
+    height: 20px;
+    width: 20px;
+}
+.container_f2{
+     background-color: black;
+    height: 20px;
+    width: 20px;
+}
